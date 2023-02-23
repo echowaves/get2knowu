@@ -2,6 +2,7 @@
   "expo": {
     "name": "get2knowu",
     "slug": "get2knowu",
+    "owner": "echowaves",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -14,17 +15,19 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.echowaves.get2knowu",
+      "buildNumber": "1"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.echowaves.get2knowu",
+      "versionCode": 74
     },
     "web": {
       "favicon": "./assets/favicon.png"
