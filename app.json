@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "28830ccf-2d1f-44e5-8507-e98ae4be7b9e"
+      }
+    },
+    "owner": "echowaves"
   }
 }
