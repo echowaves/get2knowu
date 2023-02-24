@@ -19,7 +19,7 @@
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.echowaves.get2knowu",
-      "buildNumber": "1"
+      "buildNumber": "75"
     },
     "android": {
       "adaptiveIcon": {
@@ -27,7 +27,7 @@
         "backgroundColor": "#FFFFFF"
       },
       "package": "com.echowaves.get2knowu",
-      "versionCode": 74
+      "versionCode": 75
     },
     "web": {
       "favicon": "./assets/favicon.png"
