@@ -1,7 +1,9 @@
 node_modules/
+.codacy/
 .expo/
 dist/
 npm-debug.*
+yarn.lock
 *.jks
 *.p8
 *.p12
